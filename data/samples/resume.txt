@@ -1,0 +1,15 @@
+NADIA PUTRI
+nadia.putri@example.com | +62 812 0000 1234
+
+PROFILE
+Junior software developer with experience building data-driven web applications.
+
+SKILLS
+Python, SQL, FastAPI, React, Git, Docker
+
+WORK EXPERIENCE
+Software Developer Intern — PT Contoh Teknologi (January 2025 - June 2025)
+Built REST API endpoints, wrote unit tests, and integrated PostgreSQL.
+
+EDUCATION
+Universitas Contoh — B.Sc. Computer Science (2022 - 2026)

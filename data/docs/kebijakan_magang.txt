@@ -1,0 +1,9 @@
+KEBIJAKAN PROGRAM MAGANG DATHEON - DOKUMEN DEMO FIKTIF
+
+Dokumen ini dibuat untuk pengujian perangkat lunak. Bukan kebijakan resmi Datheon.
+
+Durasi program magang dalam skenario simulasi adalah 12 minggu.
+Peserta wajib mengikuti sesi mentoring setiap hari Rabu pukul 15.00 WIB.
+Penilaian terdiri dari kualitas kode (40%), dokumentasi (30%), dan presentasi akhir (30%).
+Pengumpulan laporan akhir dilakukan pada minggu ke-12.
+Alur review: submit kode ke repositori, buat pull request, lalu minta mentor melakukan review.

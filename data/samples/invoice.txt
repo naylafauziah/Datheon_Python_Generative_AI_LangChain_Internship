@@ -1,0 +1,13 @@
+PT Nusantara Digital Solutions
+Jl. Sudirman No. 12, Jakarta
+INVOICE #INV-2026-101
+Tanggal penerbitan: 26 Oktober 2026
+Ditagihkan kepada: PT Data Inovasi Indonesia
+
+1. Website development     2 unit x Rp 1.500.000 = Rp 3.000.000
+2. API integration         1 unit x Rp 2.000.000 = Rp 2.000.000
+
+Subtotal                  Rp 5.000.000
+PPN 11%                   Rp   550.000
+GRAND TOTAL               Rp 5.550.000
+Pembayaran jatuh tempo: 9 November 2026

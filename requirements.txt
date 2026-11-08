@@ -1,0 +1,16 @@
+# Recommended Python: 3.11 or 3.12
+# Install fresh packages together; LangChain API examples target 1.x.
+google-genai>=1.30,<2
+pydantic>=2.9,<3
+python-dotenv>=1.0,<2
+langchain>=1.0,<2
+langchain-core>=1.0,<2
+langchain-community>=0.4,<1
+langchain-google-genai>=4.0,<5
+langchain-text-splitters>=1.0,<2
+langchain-chroma>=1.0,<2
+chromadb>=1.0,<2
+pypdf>=5,<8
+streamlit>=1.45,<2
+tavily-python>=0.7,<1
+pytest>=8,<10
